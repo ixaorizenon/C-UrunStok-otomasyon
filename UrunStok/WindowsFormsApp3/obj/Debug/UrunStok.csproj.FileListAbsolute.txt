@@ -1,0 +1,136 @@
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.GenerateResource.cache
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ZstdNet.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Memory.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Buffers.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.AssemblyReference.cache
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.Form1.resources
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.Form2.resources
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.Form3.resources
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CopyComplete
+C:\Users\onuru\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.FormKategori.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ZstdNet.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Memory.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Buffers.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.AssemblyReference.cache
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.Form1.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.Form2.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.Form3.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.FormKategori.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.GenerateResource.cache
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CopyComplete
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\onuru\Desktop\Ürün Stok Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\ZstdNet.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\System.Memory.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\System.Buffers.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.AssemblyReference.cache
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form1.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form2.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form3.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.FormKategori.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.GenerateResource.cache
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CopyComplete
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\onuru\Desktop\Ürün Stok Proje\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\UrunStok\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\ZstdNet.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\Ubiety.Dns.Core.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\System.Memory.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\System.Buffers.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Hash.xxHash.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\System.Numerics.Vectors.dll
+E:\UrunStok\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csprojAssemblyReference.cache
+E:\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form1.resources
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form2.resources
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form3.resources
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.FormKategori.resources
+E:\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.GenerateResource.cache
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+E:\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CopyComplete
+E:\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\ZstdNet.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\System.Memory.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\System.Buffers.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csprojAssemblyReference.cache
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form1.resources
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form2.resources
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.Form3.resources
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.FormKategori.resources
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.GenerateResource.cache
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\UrunStok.csproj.CopyComplete
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Lab2-ogrenci\Desktop\UrunStok\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
